@@ -1,3 +1,5 @@
-body {
-  background-color: antiquewhite;
-}
+@import "libs/reset.scss";
+@import "libs/flexboxgrid.scss";
+@import "styles/global.scss";
+@import "styles/styles.scss";
+@import "styles/modal.scss";
